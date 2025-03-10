@@ -9,5 +9,5 @@
 
 test login 
 
-username = test@example.com
-password = password123
+'email' => test@example.com
+'password' => password123
